@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Private application data
+data/contacts.csv
+output/
+attachments/*
+!attachments/.gitkeep

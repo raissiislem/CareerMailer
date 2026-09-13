@@ -1,0 +1,17 @@
+Bonjour {name},
+
+{personalization}
+
+Je m'appelle Islem Raissi, étudiant ingénieur en 4e année à ESPRIT et major de promotion. Je recherche un stage de fin d'études (PFE) de 6 mois à partir de janvier 2027, en Data Engineering, Data Analysis ou BI. Je reste ouvert selon les besoins de l'équipe.
+
+Ce qui pourrait vous être utile :
+- Projet data end-to-end pour une ONG, sur plusieurs années : pipelines, transformation, analyse et dashboards business & marketing
+- Stack : Python, SQL, PostgreSQL, dbt, Airflow, Power BI, Docker, et actuellement en montée en compétences sur Spark et Databricks
+- À l'aise aussi bien sur la partie construction de pipelines que sur l'analyse et la restitution des données — un profil polyvalent qui peut s'adapter aux besoins concrets d'une petite équipe data comme la vôtre
+
+Basé en Tunisie, mobile partout en France, je gère moi-même les démarches de visa : côté entreprise, seule la convention de stage est nécessaire. Ouvert à une suite en CDI si l'opportunité se présente.
+
+Mon CV est en pièce jointe. Disponible pour un échange si mon profil vous semble pertinent.
+
+Bien cordialement,
+Islem Raissi
