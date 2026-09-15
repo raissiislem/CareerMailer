@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/QE7p8ii.png" alt="CareerMailer logo" width="160">
+  <img src="https://i.imgur.com/QE7p8ii.png" alt="CareerMailer logo" width="320">
 </p>
 
 <h1 align="center">CareerMailer</h1>
