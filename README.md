@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/islemraissi/">LinkedIn</a> ·
-  <a href="https://islem-raissi-portfolio.vercel.app/">Portfolio</a>
+  <a href="https://islem-raissi-portfolio.vercel.app/">Portfolio</a> .
   <a href="https://drive.google.com/file/d/19MYoliiPJex_6xcZzOEhLcta_IVD3YDR/view?usp=sharing">Demo</a>
 </p>
 
